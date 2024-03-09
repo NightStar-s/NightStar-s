@@ -1,6 +1,6 @@
 - 👋 Hello, I’m NightStars, +18 years old
 - 💻 I’m interested in Coding/Programming/Developing and Designing/Graphic Designing
-- 🌱 I’m currently learning React Native, React.js, React.ts, Vue.js, Node.js, Next.js, Next.ts, php, TypeScript, SASS, Unity Engine, Blender, Godot Engine
+- 🌱 I’m currently learning React Native, React.js, React.ts, Vue.js, Node.js, Next.js, Next.ts, php, TypeScript, SASS, Lua, C, C++, C#, Unity Engine, Blender, Godot Engine
 - 📓 I have experience of +13 years with Computer Science and Information, Operating System, Hardware, CyberSecurity, SysAdmin, Networking, DBMS, Data Structures and Algorithms, CMD, Terminal, Powershell
 - 📔 I also have experience of +12 years with HTML, CSS, JavaScript, XML and +5 years with Python, Python Turtle, Java, SQL, MySQL, SQLite, PostgreSQL, Bootstrap, Tailwind, Git, jQuery
 - 📚 As well as I have experience of +10 years with Adobe Photoshop, Adobe After Effect, GIMP, Microsoft Office and +3 years with Procreate, paint.net, Krita, MediBang Paint, FireAlpaca, Inkscape, VirtualDJ, LibreOffice, Camtasia, ClipChamp
